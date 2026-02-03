@@ -1,10 +1,10 @@
-# Hi there, I'm Bùi Công Thành (Amon) 👋 🛡️
+# Hi there, I'm Amon 👋 🛡️
 
 I am a **Junior Cyber Security student at FPT University**. I have a passion for building secure systems, performing penetration testing, and exploring the intersection of **Artificial Intelligence and Cybersecurity (Cyber AI)**.
 
 ### 🛠️ Professional Toolbox
 - **Languages:** Python (Security Scripting), Bash/PowerShell, JavaScript.
-- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite.
+- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite, Postman.
 - **OS/Infrastructure:** Ubuntu/Linux, Windows Hardening, Docker & DevOps.
 - **Current Focus:** Researching AI Open Source projects for security enhancements.
 
@@ -19,7 +19,6 @@ I am a **Junior Cyber Security student at FPT University**. I have a passion for
 ### 🤝 Let's Connect!
 - **Identity:** I go by **Amon** in technical communities.
 - **Academic:** Junior at **FPT University** (Cyber Security major).
-- **Collab:** Currently collaborating on the **CS-STUDY-GROUP** project.
 
 ---
 *"If we were to lose the thoughts that define us, would we still be who we are?"*
