@@ -12,10 +12,6 @@ I am a **Junior Cyber Security student at FPT University**. I have a passion for
 - **[DevOps_study](https://github.com/evitingoc/DevOps_study):** Comprehensive study on automating secure infrastructure.
 - **[DevOps_Projects](https://github.com/evitingoc/DevOps_Projects):** Practical implementation of CI/CD pipelines with a security-first mindset.
 
-### 📊 GitHub Stats
-![Amon's GitHub stats](https://github-readme-stats.vercel.app/api?username=evitingoc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evitingoc&layout=compact&theme=tokyonight)
-
 ### 🤝 Let's Connect!
 - **Identity:** I go by **Amon** in technical communities.
 - **Academic:** Junior at **FPT University** (Cyber Security major).
