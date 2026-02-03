@@ -1,1 +1,25 @@
-# Amon3422
+# Hi there, I'm Bùi Công Thành (Amon) 👋 🛡️
+
+I am a **Junior Cyber Security student at FPT University**. I have a passion for building secure systems, performing penetration testing, and exploring the intersection of **Artificial Intelligence and Cybersecurity (Cyber AI)**.
+
+### 🛠️ Professional Toolbox
+- **Languages:** Python (Security Scripting), Bash/PowerShell, JavaScript.
+- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite.
+- **OS/Infrastructure:** Ubuntu/Linux, Windows Hardening, Docker & DevOps.
+- **Current Focus:** Researching AI Open Source projects for security enhancements.
+
+### 🚀 Featured Projects
+- **[DevOps_study](https://github.com/evitingoc/DevOps_study):** Comprehensive study on automating secure infrastructure.
+- **[DevOps_Projects](https://github.com/evitingoc/DevOps_Projects):** Practical implementation of CI/CD pipelines with a security-first mindset.
+
+### 📊 GitHub Stats
+![Amon's GitHub stats](https://github-readme-stats.vercel.app/api?username=evitingoc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evitingoc&layout=compact&theme=tokyonight)
+
+### 🤝 Let's Connect!
+- **Identity:** I go by **Amon** in technical communities.
+- **Academic:** Junior at **FPT University** (Cyber Security major).
+- **Collab:** Currently collaborating on the **CS-STUDY-GROUP** project.
+
+---
+*"If we were to lose the thoughts that define us, would we still be who we are?"*
